@@ -20,7 +20,6 @@
     "express-session": "^1.15.6",
     "express-validator": "^5.1.1",
     "lodash": "^4.17.5",
-    "opencv": "^6.0.0",
-    "opencv4nodejs": "^4.1.0"
+    "opencv": "^6.0.0"
   }
 }
